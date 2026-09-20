@@ -1,0 +1,3 @@
+[submodule "scripts/tachytome"]
+	path = scripts/tachytome
+	url = ../tachytome
