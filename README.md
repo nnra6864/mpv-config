@@ -20,7 +20,7 @@ A minimal, convenience first, quality oriented mpv config.
 
 | Key                   | Action    | Description        |
 |-----------------------|-----------|--------------------|
-| g                     | Go To     | Tachytome Go To.   |
+| g-t                   | Go To     | Tachytome Go To.   |
 | RIGHT/LEFT            | Seek +-5  | Seek +-5 seconds.  |
 | Alt+RIGHT/LEFT        | Seek +-1  | Seek +-1 seconds.  |
 | Ctrl+RIGHT/LEFT       | Seek +-60 | Seek +-10 seconds. |
@@ -35,10 +35,12 @@ A minimal, convenience first, quality oriented mpv config.
 
 ### Zoom
 
-| Key     | Action        | Description      |
-|---------|---------------|------------------|
-| Alt++/- | Zoomy +/-0.1  | Zoom by +/-0.1.  |
-| Alt+i/o | Zoomy +/-0.01 | Zoom by +/-0.01. |
+| Key         | Action        | Description      |
+|-------------|---------------|------------------|
+| Alt++/-     | Zoom +/-0.1   | Zoom by +/-0.1.  |
+| Alt+i/o     | Zoom +/-0.01  | Zoom by +/-0.01. |
+| MWHEEL_UP   | Zoom +0.1     | Zoom by +0.1.    |
+| MWHEEL_DOWN | Zoom -0.1     | Zoom by -0.1.    |
 
 # ☦
 
