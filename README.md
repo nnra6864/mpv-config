@@ -20,7 +20,7 @@ A minimal, convenience first, quality oriented mpv config.
 
 | Key                   | Action    | Description        |
 |-----------------------|-----------|--------------------|
-| g-t                   | Go To     | Tachytome Go To.   |
+| g                     | Go To     | Tachytome Go To.   |
 | RIGHT/LEFT            | Seek +-5  | Seek +-5 seconds.  |
 | Alt+RIGHT/LEFT        | Seek +-1  | Seek +-1 seconds.  |
 | Ctrl+RIGHT/LEFT       | Seek +-60 | Seek +-10 seconds. |
